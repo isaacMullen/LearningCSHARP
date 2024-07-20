@@ -1,0 +1,14 @@
+E:\VS Projects\C#_players_guide\randomGuesser\bin\Debug\net8.0\randomGuesser.exe
+E:\VS Projects\C#_players_guide\randomGuesser\bin\Debug\net8.0\randomGuesser.deps.json
+E:\VS Projects\C#_players_guide\randomGuesser\bin\Debug\net8.0\randomGuesser.runtimeconfig.json
+E:\VS Projects\C#_players_guide\randomGuesser\bin\Debug\net8.0\randomGuesser.dll
+E:\VS Projects\C#_players_guide\randomGuesser\bin\Debug\net8.0\randomGuesser.pdb
+E:\VS Projects\C#_players_guide\randomGuesser\obj\Debug\net8.0\randomGuesser.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Projects\C#_players_guide\randomGuesser\obj\Debug\net8.0\randomGuesser.AssemblyInfoInputs.cache
+E:\VS Projects\C#_players_guide\randomGuesser\obj\Debug\net8.0\randomGuesser.AssemblyInfo.cs
+E:\VS Projects\C#_players_guide\randomGuesser\obj\Debug\net8.0\randomGuesser.csproj.CoreCompileInputs.cache
+E:\VS Projects\C#_players_guide\randomGuesser\obj\Debug\net8.0\randomGuesser.dll
+E:\VS Projects\C#_players_guide\randomGuesser\obj\Debug\net8.0\refint\randomGuesser.dll
+E:\VS Projects\C#_players_guide\randomGuesser\obj\Debug\net8.0\randomGuesser.pdb
+E:\VS Projects\C#_players_guide\randomGuesser\obj\Debug\net8.0\randomGuesser.genruntimeconfig.cache
+E:\VS Projects\C#_players_guide\randomGuesser\obj\Debug\net8.0\ref\randomGuesser.dll
